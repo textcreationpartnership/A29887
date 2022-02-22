@@ -1,0 +1,597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ode on the death of William, Duke of Gloucester by W.B. of St. John's, Oxon.</title>
+            <author>W. B. (William Browne)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29887</idno>
+            <idno type="STC">Wing B5187</idno>
+            <idno type="STC">ESTC R4794</idno>
+            <idno type="EEBO-CITATION">12021173</idno>
+            <idno type="OCLC">ocm 12021173</idno>
+            <idno type="VID">52614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52614)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 56:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ode on the death of William, Duke of Gloucester by W.B. of St. John's, Oxon.</title>
+                  <author>W. B. (William Browne)</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Nutt ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Browne. Cf. Wing (2nd ed.).</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William, --  Duke of Gloucester, 1689-1700 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52614:1"/>
+            <p>AN ODE On the DEATH of WILLIAM Duke of <hi>Glouceſter.</hi>
+            </p>
+            <p>By <hi>W. B.</hi> of St. <hi>John's, Oxon.</hi>
+            </p>
+            <q xml:lang="lat">Oſtendent terris hunc tantum Fata, ne<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> 
+               <g ref="char:V">Ʋ</g>ltra Eſſe ſinent. Immodicis brevis eſt aetas, et Rara Senectus.</q>
+            <p>
+               <hi>LONDON</hi> Printed, and Sold by <hi>J. Nutt,</hi> near <hi>Sta<g ref="char:EOLhyphen"/>tioners-Hall,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:52614:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:52614:2"/>
+            <head>AN ODE On the Death of the Duke of Glouceſter.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>MOURN all whom Humane Miſery can move,</l>
+               <l>Who Tread in Virtues Pathes, or Honour Love.</l>
+               <l>Since Virtues ſureſt Guide is Fled</l>
+               <l>To the bright Realms above;</l>
+               <l>And Honour's Earlieſt Champion Dead.</l>
+               <l>Hard Fate! That one to Empire Born,</l>
+               <l>Whom all the Graces did Adorn;</l>
+               <l>Who Virtues Niceſt Precepts Underſtood,</l>
+               <l>Divinely Great, and Greatly Good,</l>
+               <l>Should ſhrink into a Winding Shroud,</l>
+               <l>And Undiſtinguiſh'd Lye, clos'd in a common Urn.</l>
+            </lg>
+            <lg n="2">
+               <pb n="2" facs="tcp:52614:3"/>
+               <head>II.</head>
+               <l>A New <hi>Philoſopher</hi> of late,</l>
+               <l>Rais'd by a Wild <hi>Enthuſiaſtick</hi> Heat,</l>
+               <l>Deny'd the Power of Death, and the great Works of Fate;</l>
+               <l>Affirm'd, We only dye becauſe we Fear:</l>
+               <l>Elſe, like the Prophet heretofore,</l>
+               <l>In Flaming Chariots we ſhould mount the Air,</l>
+               <l>And bear Deaths bitter Pangs no more:</l>
+               <l>That Courage hath the Power to Save</l>
+               <l>The Earthy part from Mouldring in the Grave:</l>
+               <l>Fond Fancy all!</l>
+               <l>For were this Notion true,</l>
+               <l>How cou'd Great <hi>Glou'ſter</hi> fall?</l>
+               <l>His Body, like his Soul, had been Immortal too.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Nor will the Body be the ſame,</l>
+               <l>But to the Duſt returns,</l>
+               <l>When the Enlivening Soul is gone that Actuates the Frame,</l>
+               <l>The Soul that our low Manſion Scorns,</l>
+               <l>And mounts to the bright Orb from whence it came;</l>
+               <l>There does God-like <hi>Glou'ſter</hi> ſit</l>
+               <l>Amidſt the Angelick Choir,</l>
+               <l>
+                  <pb n="3" facs="tcp:52614:3"/>
+With Looks compos'd, and Aſpect ſweet,</l>
+               <l>Mildly Majeſtick, and Serenely Great;</l>
+               <l>He hears with Extaſie, and liſtens with Deſire;</l>
+               <l>Attentive to the ſoft melodious Song,</l>
+               <l>There hee'l Eternally poſſeſs</l>
+               <l>An inexhauſted Treaſury of Bliſs,</l>
+               <l>And boundleſs Happineſs;</l>
+               <l>Be ever Blooming, ever Young,</l>
+               <l>Feel Pleaſures laſting, Raptures ſtrong;</l>
+               <l>Each moment ſhall preſent before His Sight,</l>
+               <l>A wondrous Scene of vaſt ineffable Delight.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Nor wonder that He Dy'd!</l>
+               <l>For Death's the Race we all muſt run;</l>
+               <l>And we muſt once arrive</l>
+               <l>The Goal we fear to Reach, and ſtrive to Shun;</l>
+               <l>And his wide Rule will laſt till Time it ſelf is done:</l>
+               <l>Tho' thy pure Virtues did reſplendent ſhine,</l>
+               <l>Thy hopes of Life cou'd ne'er ſucceed,</l>
+               <l>Tho' thou wert half Divine.</l>
+               <l>How coudſt thou Charm</l>
+               <l>Deaths unrelenting Arm,</l>
+               <l>When once the great <hi>THREE-ONE</hi>
+               </l>
+               <l>(For Humane Frailty to Attone)</l>
+               <l>Even the God of Nature, Bled?</l>
+               <l>
+                  <pb n="4" facs="tcp:52614:4"/>
+He wou'd not from his Wiſdom derogate ſo far,</l>
+               <l>To infringe the Laws himſelf had made,</l>
+               <l>But gave him power to wage perpetual War,</l>
+               <l>And all the World Invade.</l>
+               <l>Strange Prodigy!</l>
+               <l>That all the World cou'd not ſupply</l>
+               <l>His vaſt Ungovern'd Luxury,</l>
+               <l>That nothing elſe cou'd ſatisfie,</l>
+               <l>But that he too who gave him Power, ſhou'd feel his Tyranny.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>A gaping Fury always waits,</l>
+               <l>At Deaths Inhoſpitable Gates,</l>
+               <l>With eager fierceneſs to devour,</l>
+               <l>When he hath mark'd the fatal hour:</l>
+               <l>Alas! the bitter Gilded Pill,</l>
+               <l>Which when ſucceſsful was Infallible,</l>
+               <l>Is Uſeful now no more;</l>
+               <l>But Wounds the Patient it was meant to Cure.</l>
+               <l>Nor can the Artiſt's Power, or Skill,</l>
+               <l>Elude, or ſtop Death's Arbitrary Will.</l>
+               <l>So when rapid Whirl-winds blow;</l>
+               <l>When Billows roar, and Tempeſts toſs,</l>
+               <l>The Pilot's Art is at a loſs.</l>
+               <l>Even great <hi>Gibbons,</hi> who cou'd ſee</l>
+               <l>Thro' Natures inmoſt Treaſury,</l>
+               <l>
+                  <pb n="5" facs="tcp:52614:4"/>
+Who the Minuteſt Parts does know,</l>
+               <l>How the Purple Currents Flow,</l>
+               <l>And Circulate thro' every Vein,</l>
+               <l>Who Underſtands the whole Anatomy of Man;</l>
+               <l>Death cou'd Deride the great Phyſitians Art:</l>
+               <l>His whole Endeavours prov'd in Vain,</l>
+               <l>Nor cou'd he Eaſe the <hi>Hero's</hi> Pain,</l>
+               <l>Or move the Pointed Dart,</l>
+               <l>When Fates unerring Hand pierc'd his Unerring Heart.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Not the Old alone ſuffice,</l>
+               <l>But Fate is Deaf to Tender Infants Cries</l>
+               <l>Tho' Floods of Tears do fall from the ſad Parents Eyes.</l>
+               <l>Here, Royal Princeſs, wou'd my Muſe relate</l>
+               <l>The Sorrows which Your Sons Unhappy Fate</l>
+               <l>Does in Your Anxious Breaſt create;</l>
+               <l>The inward Pain, and bitter Smart,</l>
+               <l>The Anguiſh of a Bleeding Heart.</l>
+               <l>But who alas can tell</l>
+               <l>Grief Unexpreſſible.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>When <hi>Ephigenia</hi> once in <hi>Greece,</hi>
+               </l>
+               <l>For Virtue, Goodneſs, and for Beauty known,</l>
+               <l>The Incenſed Deities to Attone,</l>
+               <l>Was Doom'd a Sacrifice;</l>
+               <l>
+                  <hi>Timanthes</hi> ſaw the ſad Proceſſion go,</l>
+               <l>In all the Solemn Pomp of Woe:</l>
+               <l>Mov'd at th' unuſual Sight,</l>
+               <l>At once with Sorrow and Delight,</l>
+               <l>His Pencil the great Artiſt drew,</l>
+               <l>And took each Poſture as they came in View:</l>
+               <l>
+                  <pb n="6" facs="tcp:52614:5"/>
+And firſt he drew the Gadding Multitude,</l>
+               <l>In awkward Grief and Clamour loud.</l>
+               <l>Whoſe Grinning Looks and ſad Grimace:</l>
+               <l>(If Grief can be without a Thought)</l>
+               <l>Thoughtleſs Sorrow ſeem'd to Expreſs.</l>
+               <l>Next to his View, the Prieſts were brought,</l>
+               <l>With Modeſt Looks compos'd and Grave,</l>
+               <l>As they were touch'd with Inward Sence</l>
+               <l>Of the Virgin's Innocence,</l>
+               <l>As if Compell'd to Kill one they deſir'd to Save.</l>
+               <l>The Virgin Victim next appear'd,</l>
+               <l>In Robes as white as Alpine Snow,</l>
+               <l>And when her drooping Head ſhe rear'd;</l>
+               <l>Her Beautious Face</l>
+               <l>Seem'd like a Lilly in a Chriſtal Glaſs,</l>
+               <l>The Artiſt mix'd his blended Colours here,</l>
+               <l>And Wiſely choſe</l>
+               <l>To joyn the Lilly to a Roſe</l>
+               <l>Which added Beauties to the Fair.</l>
+               <l>But when the Father touch'd his wondring Eye,</l>
+               <l>Surpris'd at Awful Majeſty,</l>
+               <l>He threw his uſeleſs Pencil by;</l>
+               <l>Nor did he know,</l>
+               <l>To Expreſs ſuch vaſt Magnificence of Woe:</l>
+               <l>He took his Pencil up again,</l>
+               <l>Oft Eſſay'd, but ſtill in Vain;</l>
+               <l>'Till knowing he ſhou'd ne'er ſucceed,</l>
+               <l>He caſt a Veil all o'er his Aged Head.</l>
+               <l>A greater Reaſon may be ſhown</l>
+               <l>Why a Veil o'er You be thrown,</l>
+               <l>Your Mourning Beauty, ſo Tranſplendent bright,</l>
+               <l>Wou'd dazle the great Artiſt's Sight,</l>
+               <l>While Your ſad Griefs and Sufferings pierce his Heart.</l>
+            </lg>
+            <lg n="8">
+               <pb n="7" facs="tcp:52614:5"/>
+               <head>VIII.</head>
+               <l>Tho' for his Death whole Floods of Tears ſhou'd fall,</l>
+               <l>Our Grief cou'd never be Profuſe;</l>
+               <l>For he deſerves 'em all.</l>
+               <l>Did we reflect how Good, how Juſt he was,</l>
+               <l>We ſhould Lament th' Irreparable Loſs;</l>
+               <l>And not as common Mourners uſe,</l>
+               <l>With well Diſſembl'd Sorrow Grace the Funeral.</l>
+               <l>Aſſiſt me, all you Mighty Nine,</l>
+               <l>All your United Forces joyn;</l>
+               <l>Fill my Soul with Noble Heat,</l>
+               <l>Thoughts ſublimely Elevate:</l>
+               <l>And let your Inſpiration be Divine,</l>
+               <l>Leſt I ſhould Deviate from the Noble Theme,</l>
+               <l>Or ſomething Write Unworthy Him.</l>
+               <l>Where ſhall I End, or where Begin?</l>
+               <l>His Life has one continued Scene</l>
+               <l>Of Tranſcendant Glory been;</l>
+               <l>Always Effulgent, always Bright,</l>
+               <l>Without a Glimmering Spark of borrow'd Light,</l>
+               <l>On all his Luſtre did beſtow,</l>
+               <l>Always Unobſcur'd till now.</l>
+               <l>Shall I proceed by Definitions Rules,</l>
+               <l>Or the mean Pedantry of Schools?</l>
+               <l>No, from the bright Original, I'll trace,</l>
+               <l>Of his Great Illuſtrious Race.</l>
+               <l>Words cannot reach th' Extent of his Capacious Mind,</l>
+               <l>And what is Unexpreſſive, cannot be Defin'd.</l>
+               <l>Take all the Actions which are truly Great,</l>
+               <l>All the vaſt Enterprizes draw,</l>
+               <l>From the firſt <hi>Norman</hi> Conqueror to the Great <hi>Naſſau.</hi>
+               </l>
+               <l>Which had Great <hi>Glou'ſter</hi> Liv'd, had been in him Com<g ref="char:EOLhyphen"/>pleat.</l>
+            </lg>
+            <lg n="9">
+               <pb n="8" facs="tcp:52614:6" rendition="simple:additions"/>
+               <head>IX.</head>
+               <l>The <hi>Norman</hi> had a vaſt Ambitious Soul,</l>
+               <l>A Thirſt of Glory nothing cou'd Controul:</l>
+               <l>He grew by long Experience Wiſe,</l>
+               <l>And Learnt by knowing Dangers, Dangers to Deſpiſe.</l>
+               <l>Next the firſt <hi>Richard,</hi> let us Name,</l>
+               <l>Worthy the Records of Fame.</l>
+               <l>He left his Native ſoil to free</l>
+               <l>The Holy Land from Infidelity:</l>
+               <l>And when the Glorious Act was Done,</l>
+               <l>At the Surrender of the Town,</l>
+               <l>The Auſtrian Banner on the Wall was ſet</l>
+               <l>As if they only did the Infidels Defeat:</l>
+               <l>F<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> with Reſentment, and a Sence</l>
+               <l>Of Virtue wrong'd by Inſolence,</l>
+               <l>As if a Share in Conqueſt he Diſdain'd,</l>
+               <l>Only by his Valour gain'd,</l>
+               <l>He tore the Sawcy Standard thence,</l>
+               <l>And Trampled it beneath his Royal Feet.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>Next my Muſe of <hi>Edward</hi> Sing,</l>
+               <l>Who from <hi>Edward</hi>'s Branch did Spring;</l>
+               <l>
+                  <hi>Edward</hi> the Son and Parent of a King;</l>
+               <l>But ſure his Conquering Arms will break the Muſes ſtring.</l>
+               <l>Deſcriptions force is uſeleſs here,</l>
+               <l>Where I ſhou'd Court the Readers Ear,</l>
+               <l>With Sound of Horrent Arms, and all the Glorious din of War.</l>
+               <l>I ſee his lucid Armour ſhine,</l>
+               <l>I ſee his Helmet from afar,</l>
+               <l>I fee his glittering Spear,</l>
+               <l>
+                  <pb n="9" facs="tcp:52614:6" rendition="simple:additions"/>
+I ſee whole Showers of Forked Arrows fly;</l>
+               <l>Like Light'ning through the Spiſſive Air;</l>
+               <l>I ſee the Coward Slaves diſſolv'd with Fear,</l>
+               <l>Fly like Hunted timorous De<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>I ſee the Field with Slaughter cover'd ore;</l>
+               <l>And all the fertile Ground diſtain'd with humane Gore:</l>
+               <l>While the Glad Father at a diſtant View,</l>
+               <l>Sees the Martial Prince purſure,</l>
+               <l>Swift as the Wind, the Conquer'd Foe;</l>
+               <l>Nor does he wiſh to ſhare his Victory:</l>
+               <l>But when the Gallant Youth return'd,</l>
+               <l>All gay with Blood and Wounds Adorn'd,</l>
+               <l>He hugg'd him in his Arms, and own'd him for his Son.</l>
+               <l>Had Godlike <hi>Glou'ſter</hi> liv'd to ride,</l>
+               <l>By Victorious <hi>William</hi>'s ſide:</l>
+               <l>He a greater Wonder far,</l>
+               <l>Nephew to the God of War,</l>
+               <l>Had far great Wonders done.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>The great Fifth <hi>Harry</hi> next appears,</l>
+               <l>The Terror of the Gallick ſhore:</l>
+               <l>I ſee him wondrous Acts perform, ſurpaſſing Youthful Years:</l>
+               <l>He ſits upon the Throne,</l>
+               <l>And wears the Imperial Crown:</l>
+               <l>While the poor Tributary King,</l>
+               <l>Bows to ſuperiour Power,</l>
+               <l>And Owns him Conqueror.</l>
+               <l>Had <hi>Glouſt'er</hi> liv'd, and durſt they break</l>
+               <l>The Peace that they were forc'd to make;</l>
+               <l>Rais'd by a ſmall Advantage dare,</l>
+               <l>Provoke us to unequal War;</l>
+               <l>
+                  <pb n="10" facs="tcp:52614:7"/>
+Great <hi>William</hi> ſhould his Fleet and Armies bring,</l>
+               <l>A ſecond Glorious Conqueſt Gain;</l>
+               <l>And <hi>Glou'ſter</hi> his Vicegerent Reign,</l>
+               <l>Nor ſhou'd the Kingdom ere be Titular again.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>To the Sixth <hi>Edward</hi> next, my Muſe encline,</l>
+               <l>For tho' his Life was ſhort, 'twas all Divine:</l>
+               <l>A Reformation he began,</l>
+               <l>And ſcarce a Boy, his Vertues writ him Man:</l>
+               <l>Pious and Young he did remove,</l>
+               <l>Like <hi>Glou'ſter</hi> to the Realms above:</l>
+               <l>Too like alas was his too Early Fate!</l>
+               <l>Nor muſt we Great <hi>Eliza</hi>'s Worth forget;</l>
+               <l>Her Vertues once did Undiminiſh'd ſhine,</l>
+               <l>And tho' ſhe wore a Female Dreſs,</l>
+               <l>And had a Beautious Female Face;</l>
+               <l>Her vaſt Heroick Soul was Maſculine.</l>
+               <l>But lo! <hi>Maria</hi> rears her Sacred Head,</l>
+               <l>And drowns like Bluſhing Noon her paler Dawn:</l>
+               <l>Her Brightneſs is Obſcur'd and Fled,</l>
+               <l>And all her' Splendor gone:</l>
+               <l>As Stars that Diſappear before the Sun;</l>
+               <l>Here wou'd my Drooping Genius raiſe,</l>
+               <l>And Dwell eternally on Great <hi>Maria</hi>'s Praiſe;</l>
+               <l>But why do I a Task purſue,</l>
+               <l>Which tho' it Pleaſe, will Wound us too?</l>
+               <l>For while a Juſt Account I give,</l>
+               <l>What Benefits we did from her receive,</l>
+               <l>It will her ſad lamented Death renew,</l>
+               <l>And that, if poſſible, Augment our preſent Woo<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg n="13">
+               <pb n="11" facs="tcp:52614:7" rendition="simple:additions"/>
+               <head>XIII.</head>
+               <l>Here I'm reminded of great <hi>William</hi>'s Name,</l>
+               <l>Tho' mention'd Laſt, the Firſt in Fame:</l>
+               <l>How ſhall I ſtop the Muſes Horſe?</l>
+               <l>Reſolv'd to run his Furious Courſe,</l>
+               <l>He Champs the Foaming Bit, and here diſdains</l>
+               <l>The Riders Feeble Hands, and breaks the ſlender Reins,</l>
+               <l>Bending his winged Courſe around the <hi>Fland'rian</hi> Plains.</l>
+               <l>How ſhall I juſtly write the Hero's Praiſe,</l>
+               <l>His Virtues Rhetorick cannot Raiſe,</l>
+               <l>Nor Defamation make 'em Leſs:</l>
+               <l>And tho' no ſtrong Poetick Ardour ſhines,</l>
+               <l>Fair Truth ſhall grace the Coming Lines.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>Who that can draw a Sword, or hold a Shield,</l>
+               <l>Will e'er forget the Fight of <hi>Landens</hi> Bloody Field?</l>
+               <l>To this great Action let us join</l>
+               <l>The mighty Wonders at the <hi>Boyn.</hi>
+               </l>
+               <l>
+                  <hi>Horatius</hi> gain'd a vaſt Eſteem,</l>
+               <l>A Never-dying Fame;</l>
+               <l>He plung'd in <hi>Tyber</hi>'s rapid Stream,</l>
+               <l>To avoid a Conquering Foe:</l>
+               <l>How then can we beſtow,</l>
+               <l>On Great <hi>Naſſau</hi> his Praiſes due,</l>
+               <l>Who waded thro' the <hi>Boyn,</hi> the Conquer'd to purſue?</l>
+               <l>How ſhall we Celebrate his Name;</l>
+               <l>WHo kept his Neighbouring Foes in Awe,</l>
+               <l>And gave Proud <hi>France</hi> a Law;</l>
+               <l>And forc'd their King reſign the Forts he did unjuſtly claim?</l>
+               <l>Tho' his bright Arms ſtrike Horror from afar,</l>
+               <l>Tho' he's the Thunderbolt of War,</l>
+               <l>Yet can he make Confuſion hear his Voice,</l>
+               <l>
+                  <pb n="12" facs="tcp:52614:8"/>
+And dreadful Uproars ceaſe,</l>
+               <l>So well he Underſtands the Arts of Peace:</l>
+               <l>By him we all Rejoyce;</l>
+               <l>By him with Plenty Bleſt,</l>
+               <l>In Undiſturb'd and Quiet Slumbers Reſt.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>He Came, Accepted Empire here,</l>
+               <l>When it was hardly worth his Care:</l>
+               <l>When the whole Nation felt the Stroke</l>
+               <l>Of Arbitary Power;</l>
+               <l>And bent their Servile Necks beneath the Roman Yoke:</l>
+               <l>He Came and ſet us Free,</l>
+               <l>From Superſtitious Fear, and Vain Idolatry:</l>
+               <l>And from Remorſeleſs Cruelty,</l>
+               <l>Nor did he ſit</l>
+               <l>Upon his Throne ſupinely Great,</l>
+               <l>Lull'd in the Slothful Arms of Peace;</l>
+               <l>But made our Quarrels his,</l>
+               <l>And Conquer'd all our Enemies,</l>
+               <l>As if His Life was not His Own,</l>
+               <l>But born for Us alone,</l>
+               <l>Born to preſerve the Brittiſh Laws, and wear the Brittiſh Crown.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>Wert thou of the <hi>Trojan</hi> Line,</l>
+               <l>The <hi>Trojan</hi> Virtues all were thine:</l>
+               <l>Wert thou of the <hi>Roman</hi> Race,</l>
+               <l>Or of the Families of Antient <hi>Greece,</hi>
+               </l>
+               <l>All the Nations thou do'ſt Grace;</l>
+               <l>The Hero's of the <hi>Roman</hi> State,</l>
+               <l>Were but Comparatively Great;</l>
+               <l>
+                  <pb n="13" facs="tcp:52614:8"/>
+Since Thou, the Great <hi>Columbus,</hi> did'ſt Explore</l>
+               <l>Bright Tracts of Glory, never known before;</l>
+               <l>And muſt be own'd without Diſpute,</l>
+               <l>O'er all the World, for Glory Abſolute.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>Oh! Had the God-like Prince we now bemoan,</l>
+               <l>Liv'd to Succeed, and Wear the Brittiſh Crown,</l>
+               <l>What might we not expect?</l>
+               <l>But Fate, alas! does our vain Wiſh reject:</l>
+               <l>For <hi>Naſſau</hi>'s Self, who can command</l>
+               <l>Even all our Powers, cannot Deaths Power withſtand,</l>
+               <l>But muſt reſign his Triumph up to His all-Conquering Hand?</l>
+               <l>And tho' his Soul can never die,</l>
+               <l>Which fill'd with Heavenly Fire,</l>
+               <l>In Bliſs muſt Reign among his Kindred of the Sky,</l>
+               <l>Yet muſt his Mortal part Expire;</l>
+               <l>And a Third Heroine ſit upon the Throne,</l>
+               <l>To which by Virtue ſhe has Right, and not by Blood alone.</l>
+               <l>Goodneſs and Generous Actions are,</l>
+               <l>To her alone Peculiar;</l>
+               <l>Not only when with Need oppreſs'd,</l>
+               <l>The wretched Suppliants Cry,</l>
+               <l>Their bitter Wants ſhe does ſupply:</l>
+               <l>But they are oft with Unexpected Bounty bleſs'd.</l>
+               <l>The Grateful Muſes muſt her Favours own;</l>
+               <l>To them may her Indulgence ſtill be ſhown;</l>
+               <l>The Muſes beſt can make her Vertues known,</l>
+               <l>Great <hi>Williams</hi> Acts, and Hers they ſhall proclaim,</l>
+               <l>A long Laborious Toil of Fame,</l>
+               <l>And to the utmoſt <hi>Thule</hi> ſhall ſpread their glorious Name.</l>
+            </lg>
+            <lg n="18">
+               <pb n="14" facs="tcp:52614:9"/>
+               <head>XVIII.</head>
+               <l>Here I muſt beg the Reader to Excuſe</l>
+               <l>The Errors of an Injudicious Muſe:</l>
+               <l>Tho' I cou'd mount the Tow'ring height,</l>
+               <l>Of <hi>Pindars</hi> Steady, yet Unequal Flight,</l>
+               <l>I now ſhou'd ſink beneath my Sorrows weight:</l>
+               <l>Even <hi>Ovid,</hi> who when e'er he ſtrove,</l>
+               <l>The ſtrings of the touch'd Heart cou'd move,</l>
+               <l>And bend the yielding Soul to Love;</l>
+               <l>When Sorrows did his lofty Genius bow,</l>
+               <l>His Thoughts were mean, and his Expreſſions low;</l>
+               <l>How then can I, when Uninſpir'd,</l>
+               <l>Nor with Poetick Rapture fir'd;</l>
+               <l>Who ne'er cou'd the Meanders trace,</l>
+               <l>Or intricate Delightful Paths Explore,</l>
+               <l>Expect a harſh Cenſorious Age to pleaſe?</l>
+               <l>Alas! I only ſtrive to ſhew,</l>
+               <l>What all in Gratitude are bound to do:</l>
+               <l>And leave it to the mighty Few,</l>
+               <l>who trod the Muſes pleaſant Maze before:</l>
+               <l>Let them the Glorious Task purſue;</l>
+               <l>A <hi>Mauſoleum</hi> raiſe,</l>
+               <l>A Monument of Everlaſting Praiſe:</l>
+               <l>Let <hi>Congreve,</hi> or ſome greater Genius tell,</l>
+               <l>(If any <hi>Congreve</hi> can excell)</l>
+               <l>How much Belov'd he Liv'd, how much Lamented Fell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
